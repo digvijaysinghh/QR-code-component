@@ -1,0 +1,41 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    margin-top: 100px;
+}
+div.card{
+    width: 351px;
+    border-radius: 20px;
+    background-color: white;
+    padding: 20px;
+    margin:  auto auto 30px auto;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+}
+div.img{
+    border-radius: 10px;
+    margin: 0;
+}
+p{
+    color: hsl(220, 15%, 55%);
+    width: 75%;
+    font-size: 15px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+img{
+    width: 350px;
+    border-radius: 10px;
+    margin: auto;
+}
+h1{
+    width: 109%;
+    margin: auto;
+    padding:20px;
+    position: relative;
+    right: 30px;
+}
+p{
+    width: 75%;
+}
+
